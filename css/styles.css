@@ -1,0 +1,296 @@
+body{
+    margin: 0px;
+    background-color: #ffc0cb;
+    color: #40514E;
+    
+}
+.header-container{
+    text-align: center;
+    position: relative;
+}
+div {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+
+.profile{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+p{
+    line-height: 2;
+}
+
+ul{
+    line-height: 2;
+}
+.headline {
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-family:"Sacramento", cursive;
+    font-size: 5.625rem;
+    color: #FFE3E1;
+}
+
+.byline {
+    margin-top: 0;
+    margin-bottom: 50px;
+    font-family:"Merriweather", sans-serif;
+    color: #FFE3E1;
+}
+
+.my-image{
+    width: 30%;
+    float: left;
+    margin-top: 10%;
+}
+
+.about{
+    width: 60%;
+    margin:0 20% 0 40%;
+}
+.html-logo{
+    position: absolute;
+    right: 20%;
+    top: 30%;
+}
+
+.css-logo{
+    position: absolute;
+    right: 80%;
+    top: 20%;
+}
+
+.python-logo{
+    position: absolute;
+    right: 90%;
+    top: 40%;
+}
+
+.ai-logo{
+    position: absolute;
+    right: 20%;
+    top: 60%;
+}
+
+.idea-logo{
+    position: absolute;
+    right: 5%;
+    top: 35%;
+}
+
+.cplusplus-logo{
+    position: absolute;
+    left: 10%;
+    top: 50%;
+}
+
+.java-logo{
+    position: absolute;
+    left: 25%;
+    top: 30%;
+}
+
+
+.projects{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projectstable{
+    margin: auto;
+}
+
+.languages-table{
+    margin: auto;
+    text-align: center;
+}
+
+.frameworks-table{
+    margin: auto;
+    text-align: center;
+}
+
+.tools-table{
+    margin: auto;
+    text-align: center;
+}
+
+.skills{
+    text-align: center;
+    position: relative;
+}
+
+.skills-table{
+    margin: auto;
+    text-align: center;
+}
+
+th{
+    margin: auto;
+    text-align: center;
+}
+
+.tech-table{
+    margin: auto;
+    text-align: center;
+}
+
+.work-experience{
+    text-align: center;
+}
+.work-exp{
+    margin: auto;
+    text-align: center;
+}
+
+.startupstable{
+    margin: auto;
+    text-align: center;
+}
+
+.startups{
+    text-align: center;
+}
+
+.volunteer{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+.volunteerwork{
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    line-height: 1.5;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family:"Merriweather", sans-serif;
+    color: #E688A1;
+    text-align: center;
+}
+h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+h3{
+    font-weight: 550;
+}
+
+.itap-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+}
+
+.itap{
+    width: 25%;
+    float: left;
+}
+
+.wics-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+}
+
+.penumbra-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.wics{
+    width: 25%;
+    float: left;
+}
+
+.penumbra{
+    width: 25%;
+    float: left;
+}
+
+.cyber-allies-row{
+    width: 80%;
+    margin: auto;
+    border: 2px solid pink;
+}
+
+.sahaeli-row{
+    width: 80%;
+    margin: auto;
+    border: 2px solid pink;
+}
+
+.tableauPlaceholder{
+    margin:auto;
+}
+
+.contact-me{
+    margin: auto;
+    text-align: center;
+}
+
+hr{
+    border: dotted #FFE3E1 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+
+
+.buttonClass {
+    font-size:19px;
+    font-family:Times;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:rgba(243, 197, 197, 1);
+    border-color:rgba(240, 184, 206, 1);
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 1px 0px 0px rgba(243, 192, 212, 1);
+    text-shadow:inset 0px 1px 0px #c70067;
+    background:rgba(215, 127, 161, 1);
+  }
+  
+  .buttonClass:hover {
+    background: rgba(235, 130, 184, 1)
+  }
+                
+.bottom-container{
+    margin-top: 40px;
+    background-color: #E688A1;
+    padding: 30px 0px 20px;
+    text-align: center;
+}
+
+.footer-link{
+    color: #FFE3E1;
+    font-family: Times;
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px 20px;
+
+}
+
+a:hover{
+    color: antiquewhite;
+
+}
+
+.copyright{
+    color: antiquewhite;
+    font-size: 0.75rem;
+}
